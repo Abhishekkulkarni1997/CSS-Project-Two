@@ -12,7 +12,7 @@
 ### Time Required to finish the project
     (2 hrs)
 
- [Deployed Link](https://css-html-project-two.netlify.app/)
+ [Deployed Link](https://project-2-restaurant-landingpage.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
